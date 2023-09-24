@@ -1,0 +1,100 @@
+Laptop, Elektronika, Przenośne, ASUS
+Telewizor, Elektronika, Stacjonarne, Samsung
+Smartfon, Elektronika, Przenośne, Apple
+Buty sportowe, Odzież, Sportowa, Nike
+Szampon, Kosmetyki, Hipoalergiczny, L'Oréal
+Książka "Władca Pierścieni", Książki, Fantasy, J.R.R. Tolkien
+Gra planszowa "Catan", Gry, Strategiczna, Kosmos
+Bluza, Odzież, Casual, Adidas
+Aparat fotograficzny, Elektronika, Lustrzanka, Canon
+Perfumy, Kosmetyki, Kwiatowe, Chanel
+Tablet, Elektronika, Przenośne, Samsung
+Kurtka zimowa, Odzież, Zimowa, The North Face
+Zegarek męski, Akcesoria, Męski, Rolex
+Książka "Harry Potter", Książki, Fantasy, J.K. Rowling
+Płyn do prania, Chemia gospodarcza, Uniwersalny, Persil
+Monitor komputerowy, Elektronika, Stacjonarny, LG
+Gra komputerowa "The Witcher 3", Gry, RPG, CD Projekt Red
+Blu-ray "Avengers: Endgame", Filmy, Akcji, Marvel Studios
+Buty biegowe, Odzież, Sportowa, New Balance
+Serum do twarzy, Kosmetyki, Nawilżające, Neutrogena
+Rowerek dziecięcy, Sport i rekreacja, Dziecięcy, Fisher-Price
+Pendrive USB, Elektronika, Przenośne, SanDisk
+Album muzyczny "Abbey Road", Muzyka, Rock, The Beatles
+Kawa ziarnista, Żywność, Kofeina, Starbucks
+Komiks "Spider-Man", Książki, Komiks, Marvel Comics
+Samochód zabawkowy, Zabawki, Dla dzieci, Hot Wheels
+Portfel skórzany, Akcesoria, Męski, Gucci
+Spódnica letnia, Odzież, Letnia, H&M
+Szczoteczka do zębów elektryczna, Higiena osobista, Elektryczna, Oral-B
+Suszarka do włosów, Kosmetyki, Profesjonalna, BaByliss
+Gra planszowa "Monopoly", Gry, Strategiczna, Hasbro
+Bluzka damska, Odzież, Damska, ZARA
+Książka "Mistrz i Małgorzata", Książki, Klasyczna, Michaił Bułhakow
+Krem przeciwsłoneczny, Kosmetyki, SPF 50, NIVEA
+Lodówka, AGD, Wolnostojąca, Bosch
+Rower górski, Sport i rekreacja, Górski, Trek
+Odkurzacz, AGD, Bezworkowy, Dyson
+Album muzyczny "Dark Side of the Moon", Muzyka, Rock, Pink Floyd
+Perfumy męskie, Kosmetyki, Męskie, Dolce & Gabbana
+Lalka Barbie, Zabawki, Dla dzieci, Mattel
+Komputer stacjonarny, Elektronika, Stacjonarny, HP
+Płyta DVD "Inception", Filmy, Science Fiction, Warner Bros.
+Spodnie dżinsowe, Odzież, Jeans, Levi's
+Ładowarka do telefonu, Akcesoria, Przenośna, Anker
+Mascara do rzęs, Kosmetyki, Wydłużająca, Maybelline
+Ekspres do kawy, AGD, Kapsułkowy, Nespresso
+Puzzle 1000 elementów, Zabawki, Rozrywka, Ravensburger
+Kurtka przeciwwiatrowa, Odzież, Przeciwwiatrowa, Columbia
+Laptop gamingowy, Elektronika, Przenośne, MSI
+Odtwarzacz MP3, Elektronika, Przenośne, Sony
+Zmywarka do naczyń, AGD, Wolnostojąca, Siemens
+Łóżko podwójne, Meble, Podwójne, IKEA
+Album muzyczny "Sgt. Pepper's Lonely Hearts Club Band", Muzyka, Rock, The Beatles
+Książka "Duma i uprzedzenie", Książki, Romantyczna, Jane Austen
+Mleko kokosowe, Żywność, Wegańska, Alpro
+Teczka na dokumenty, Akcesoria, Biurowa, Samsonite
+Plecak turystyczny, Sport i rekreacja, Turystyczny, Deuter
+Żel pod prysznic, Kosmetyki, Nawilżający, Dove
+Stół jadalniany, Meble, Jadalniany, Pottery Barn
+Skarpetki bawełniane, Odzież, Bawełniane, Calvin Klein
+Lusterko do makijażu, Kosmetyki, Powiększające, Conair
+Gry planszowe "Ticket to Ride", Gry, Rodzinna, Days of Wonder
+Płyta CD "Back in Black", Muzyka, Rock, AC/DC
+Pampersy dla niemowląt, Dla dzieci, Rozmiar 2, Pampers
+Bluza z kapturem, Odzież, Casual, Champion
+Szczotka do toalety, Higiena osobista, Plastikowa, OXO
+Czekolada mleczna, Żywność, Mleczna, Lindt
+Odkurzacz automatyczny, AGD, Robot, iRobot
+Perfumy damskie, Kosmetyki, Damskie, Lancôme
+Pralka, AGD, Frontalna, Whirlpool
+Zestaw narzędzi, Narzędzia, Domowe, Stanley
+Okulary przeciwsłoneczne, Akcesoria, Przeciwsłoneczne, Ray-Ban
+Książka "Zbaw nas ode złego", Książki, Kryminał, Harlan Coben
+Suszarka do rąk, Higiena osobista, Automatyczna, Dyson
+Gogle narciarskie, Sport i rekreacja, Narciarskie, Oakley
+Garnitur męski, Odzież, Męski, Hugo Boss
+Pianino elektryczne, Instrumenty muzyczne, Elektryczne, Yamaha
+Gra planszowa "Dixit", Gry, Kreatywna, Libellud
+Odtwarzacz Blu-ray, Elektronika, Przenośne, Panasonic
+Książka "Wojna i pokój", Książki, Historyczna, Lew Tołstoj
+Pomarańcze, Żywność, Owocowe, Sunkist
+Garnitur damski, Odzież, Damski, ZARA
+Kamera sportowa, Elektronika, Sportowa, GoPro
+Samochód osobowy, Motoryzacja, Osobowy, Toyota
+Koszula męska, Odzież, Męska, Ralph Lauren
+Lampa biurkowa, Oświetlenie, Biurkowa, Philips
+Laptop 2w1, Elektronika, Przenośne, Microsoft
+Zegar ścienny, Akcesoria, Ścienny, IKEA
+Płyta winylowa "Abbey Road", Muzyka, Rock, The Beatles
+Perfumy unisex, Kosmetyki, Unisex, Calvin Klein
+Stół kawowy, Meble, Kawowy, West Elm
+Mydło w płynie, Kosmetyki, Naturalne, Dr. Bronner's
+Buty do biegania, Odzież, Sportowa, Brooks
+Książka "Opowieść podręcznej", Książki, Dystopian, Margaret Atwood
+Bateria prysznicowa, Akcesoria łazienkowe, Deszczownica, Moen
+Poduszka dekoracyjna, Home Decor, Dekoracyjna, Pier 1 Imports
+Album muzyczny "Sgt. Pepper's Lonely Hearts Club Band", Muzyka, Rock, The Beatles
+Ekspres do kawy przelewowy, AGD, Przelewowy, Breville
+Rower miejski, Sport i rekreacja, Miejski, Schwinn
+Piłka do koszykówki, Sport i rekreacja, Koszykówka, Spalding

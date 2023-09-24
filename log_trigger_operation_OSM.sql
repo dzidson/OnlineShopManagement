@@ -1,0 +1,49 @@
+CREATE OR REPLACE FUNCTION log_trigger_operation()
+RETURNS TRIGGER AS
+$$
+BEGIN
+    IF TG_OP = 'INSERT' THEN 
+        INSERT INTO LOG (log_date, log_from, log_Msg, log_user)
+        VALUES (CURRENT_DATE, TG_NAME, TG_TABLE_NAME || ': INSERT', CURRENT_USER);
+    ELSIF TG_OP = 'UPDATE' THEN
+        INSERT INTO LOG (log_date, log_from, log_Msg, log_user)
+        VALUES (CURRENT_DATE, TG_NAME, TG_TABLE_NAME || ': UPDATE', CURRENT_USER);
+    ELSIF TG_OP = 'DELETE' THEN
+        INSERT INTO LOG (log_date, log_from, log_Msg, log_user)
+        VALUES (CURRENT_DATE, TG_NAME, TG_TABLE_NAME || ': DELETE', CURRENT_USER);
+    ELSIF TG_OP = 'TRUNCATE' THEN
+        INSERT INTO LOG (log_date, log_from, log_Msg, log_user)
+        VALUES (CURRENT_DATE, TG_NAME, TG_TABLE_NAME || ': TRUNCATE', CURRENT_USER);
+    END IF;
+	
+	RETURN NULL;
+END;
+$$ LANGUAGE plpgsql;
+
+CREATE TRIGGER log_trigger_customers
+AFTER INSERT OR UPDATE OR DELETE OR TRUNCATE ON customers
+FOR EACH STATEMENT
+EXECUTE FUNCTION log_trigger_operation();
+
+CREATE TRIGGER log_trigger_employees
+AFTER INSERT OR UPDATE OR DELETE OR TRUNCATE ON employees
+FOR EACH STATEMENT
+EXECUTE FUNCTION log_trigger_operation();
+
+CREATE TRIGGER log_trigger_order_details
+AFTER INSERT OR UPDATE OR DELETE OR TRUNCATE ON order_details
+FOR EACH STATEMENT
+EXECUTE FUNCTION log_trigger_operation();
+
+CREATE TRIGGER log_trigger_orders
+AFTER INSERT OR UPDATE OR DELETE OR TRUNCATE ON orders
+FOR EACH STATEMENT
+EXECUTE FUNCTION log_trigger_operation();
+
+CREATE TRIGGER log_trigger_products
+AFTER INSERT OR UPDATE OR DELETE OR TRUNCATE ON products
+FOR EACH STATEMENT
+EXECUTE FUNCTION log_trigger_operation();
+
+DELETE FROM ORDERS
+SELECT * FROM ORDERS

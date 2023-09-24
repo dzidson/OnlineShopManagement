@@ -1,0 +1,185 @@
+New York, USA
+London, United Kingdom
+Paris, France
+Tokyo, Japan
+Sydney, Australia
+Berlin, Germany
+Toronto, Canada
+Rome, Italy
+Beijing, China
+Moscow, Russia
+Cairo, Egypt
+Dubai, United Arab Emirates
+Istanbul, Turkey
+Mumbai, India
+Rio de Janeiro, Brazil
+Cape Town, South Africa
+Mexico City, Mexico
+Bangkok, Thailand
+Barcelona, Spain
+Dublin, Ireland
+Athens, Greece
+Amsterdam, Netherlands
+Vienna, Austria
+Stockholm, Sweden
+Copenhagen, Denmark
+Helsinki, Finland
+Oslo, Norway
+Warsaw, Poland
+Budapest, Hungary
+Prague, Czech Republic
+Bratislava, Slovakia
+Belgrade, Serbia
+Zagreb, Croatia
+Sofia, Bulgaria
+Bucharest, Romania
+Lisbon, Portugal
+Madrid, Spain
+Kiev, Ukraine
+Athens, Greece
+Santiago, Chile
+Buenos Aires, Argentina
+Lima, Peru
+Bogota, Colombia
+Caracas, Venezuela
+Dublin, Ireland
+Edinburgh, Scotland
+Glasgow, Scotland
+Auckland, New Zealand
+Wellington, New Zealand
+Jakarta, Indonesia
+Singapore, Singapore
+Seoul, South Korea
+Hong Kong, China
+Taipei, Taiwan
+Manila, Philippines
+Hanoi, Vietnam
+Ho Chi Minh City, Vietnam
+Kuala Lumpur, Malaysia
+Mumbai, India
+New Delhi, India
+Karachi, Pakistan
+Lahore, Pakistan
+Islamabad, Pakistan
+Dhaka, Bangladesh
+Kathmandu, Nepal
+Colombo, Sri Lanka
+Cape Town, South Africa
+Johannesburg, South Africa
+Nairobi, Kenya
+Cairo, Egypt
+Casablanca, Morocco
+Rabat, Morocco
+Algiers, Algeria
+Tunis, Tunisia
+Casablanca, Morocco
+Marrakech, Morocco
+Istanbul, Turkey
+Ankara, Turkey
+Izmir, Turkey
+Dubai, United Arab Emirates
+Abu Dhabi, United Arab Emirates
+Doha, Qatar
+Muscat, Oman
+Riyadh, Saudi Arabia
+Jeddah, Saudi Arabia
+Kuwait City, Kuwait
+Manama, Bahrain
+Amman, Jordan
+Damascus, Syria
+Baghdad, Iraq
+Tehran, Iran
+Jerusalem, Israel
+Tel Aviv, Israel
+Beirut, Lebanon
+Amman, Jordan
+Cairo, Egypt
+Tunis, Tunisia
+Algiers, Algeria
+Casablanca, Morocco
+Marrakech, Morocco
+Nairobi, Kenya
+Cape Town, South Africa
+Johannesburg, South Africa
+Accra, Ghana
+Lagos, Nigeria
+Abuja, Nigeria
+Cotonou, Benin
+Bamako, Mali
+Dakar, Senegal
+Conakry, Guinea
+Freetown, Sierra Leone
+Monrovia, Liberia
+Douala, Cameroon
+Niamey, Niger
+Ouagadougou, Burkina Faso
+Algiers, Algeria
+Tunis, Tunisia
+Rabat, Morocco
+Casablanca, Morocco
+Marrakech, Morocco
+Tangier, Morocco
+Almaty, Kazakhstan
+Astana, Kazakhstan
+Tashkent, Uzbekistan
+Ashgabat, Turkmenistan
+Bishkek, Kyrgyzstan
+Dushanbe, Tajikistan
+Kabul, Afghanistan
+Islamabad, Pakistan
+Kathmandu, Nepal
+Colombo, Sri Lanka
+Male, Maldives
+Dhaka, Bangladesh
+Yangon, Myanmar (Burma)
+Phnom Penh, Cambodia
+Vientiane, Laos
+Hanoi, Vietnam
+Ho Chi Minh City, Vietnam
+Bangkok, Thailand
+Kuala Lumpur, Malaysia
+Singapore, Singapore
+Jakarta, Indonesia
+Manila, Philippines
+Taipei, Taiwan
+Beijing, China
+Shanghai, China
+Guangzhou, China
+Shenzhen, China
+Hong Kong, China
+Seoul, South Korea
+Tokyo, Japan
+Osaka, Japan
+Sydney, Australia
+Melbourne, Australia
+Brisbane, Australia
+Auckland, New Zealand
+Wellington, New Zealand
+Suva, Fiji
+Port Moresby, Papua New Guinea
+Honolulu, Hawaii, USA
+Los Angeles, USA
+San Francisco, USA
+Chicago, USA
+Miami, USA
+Houston, USA
+Toronto, Canada
+Montreal, Canada
+Vancouver, Canada
+Calgary, Canada
+Mexico City, Mexico
+Guatemala City, Guatemala
+San Salvador, El Salvador
+Tegucigalpa, Honduras
+Managua, Nicaragua
+San Jose, Costa Rica
+Panama City, Panama
+Bogota, Colombia
+Lima, Peru
+La Paz, Bolivia
+Asuncion, Paraguay
+Santiago, Chile
+Buenos Aires, Argentina
+Sao Paulo, Brazil
+Rio de Janeiro, Brazil
+Montevideo, Uruguay
